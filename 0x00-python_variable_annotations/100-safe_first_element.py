@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Defines a functions that annotates the return values."""
 
 from typing import Union, Any, Sequence
